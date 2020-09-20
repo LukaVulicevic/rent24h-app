@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "header": "What is RENT24H?",
+      "body": "RENT24H is solution for modern day car renting service. Service taken to another level through easy to use interface."
+    },
+    {
+      "id": 2,
+      "header": "Are there any additional costs for delivering a car?",
+      "body": "We will only charge you for the gas used for getting our car to your location and back to our HQ."
+    },
+    {
+      "id": 3,
+      "header": "Where can I pick up my car?",
+      "body": "We offer car delivery service within the city of Zagreb (on specific locations that meet requirments for leaving a car), when ordering your car you will be prompted to select a location. It has to be a public place with parking or your private parking if we are devliering our car to your home."
+    },
+    {
+      "id": 4,
+      "header": "Which payment options are accepted?",
+      "body": "We are only accepting Credit Card payments for security reasons, we will reserve funds of 1000 euros from your credit card as insurance in case of breaking rules or damaging the car. When the car has been returned to drop off location payment will be cancelled and your deposit will be back on your bank account."
+    },
+    {
+      "id": 5,
+      "header": "What should I do before picking up a car?",
+      "body": "Before picking up a car you are required to take photos of interior and exterior of a car and do the same when you drop it off. This way you can easily prove that you returned a car in same codition as it was when you picked it up."
+    }
+  ]
+  

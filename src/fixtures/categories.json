@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "title": "Premium",
+      "subTitle": "Premium cars have never been more affordable, if you value luxury and elegance these cars are for you.",
+      "image": "https://sx-content-labs.sixt.io/Media/8fleet-1050x600/mb-e-klasse-kombi-blau-2017.png",
+      "alt": "Mercedes Benz E Class",
+      "direction": "row",
+      "route": "/premium"
+    },
+    {
+      "id": 2,
+      "title": "Economy",
+      "subTitle": "If you need simple and reliable vehicle to get you from A to B, we have you covered.",
+      "image": "https://sx-content-labs.sixt.io/Media/8fleet-1050x600/fiat-500-cabrio-2d-weiss-2013.png",
+      "alt": "Fiat 500",
+      "direction": "row-reverse",
+      "route": "/economy"
+    },
+    {
+      "id": 3,
+      "title": "Regular",
+      "subTitle": "Want something spacious, comfortable yet with great performance? Get in",
+      "image": "https://sx-content-labs.sixt.io/Media/8fleet-1050x600/vw-golf-kombi-grau-2017.png",
+      "alt": "VW Golf MK7",
+      "direction": "row",
+      "route": "/regular"
+    }
+  ]
